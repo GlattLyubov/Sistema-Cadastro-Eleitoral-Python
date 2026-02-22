@@ -1,0 +1,14 @@
+---------------------------
+Nome: Lucas da Silva Fernandes
+Data de Nascimento: 18/03/2005
+CPF: 488.662.008-32
+Enedereco: Avenida Caradras, 1030
+Telefone: (11)96228-2567
+
+==== REPUBLICA FEDERATIVA DO BRASIL ====
+Titulo: 357948
+Data: 20/02/2026
+Zona: 627
+Secaoo: 10
+---------------------------
+
