@@ -62,7 +62,7 @@ def salvar_dados(dados, dados_eleitoral):
         arquivo.write(f'Titulo: {dados_eleitoral[0]}\n')
         arquivo.write(f'Data: {dados_eleitoral[1]}\n')
         arquivo.write(f'Zona: {dados_eleitoral[2]}\n')
-        arquivo.write(f'Secaoo: {dados_eleitoral[3]}\n')
+        arquivo.write(f'Secao: {dados_eleitoral[3]}\n')
         arquivo.write('---------------------------\n\n')
 
 def titulo_eleitor(dados):
