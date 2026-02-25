@@ -26,3 +26,17 @@ Zona: 44
 Secaoo: 42
 ---------------------------
 
+---------------------------
+Nome: Bruno Romeo 
+Data de Nascimento: 07/10/2000
+CPF: 745.298.044-15
+Enedereco: Rua Solimoes, 824
+Telefone: (11)97542-6524
+
+==== REPUBLICA FEDERATIVA DO BRASIL ====
+Titulo: 469582
+Data: 20/02/2026
+Zona: 82
+Secao: 67
+---------------------------
+
